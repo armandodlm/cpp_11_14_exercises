@@ -5,13 +5,13 @@
 namespace Pricer
 {
 
-const char BID_TYPE = 'B';
-const char ASK_TYPE = 'S';
-const char SELL_CHAR = 'S';
-const char BUY_CHAR = 'B';
-const char ADD_TYPE = 'A';
-const char REDUCE_TYPE = 'R';
-const char UNKONWN_TYPE = 'U';
+const auto BID_TYPE = 'B';
+const auto ASK_TYPE = 'S';
+const auto SELL_CHAR = 'S';
+const auto BUY_CHAR = 'B';
+const auto ADD_TYPE = 'A';
+const auto REDUCE_TYPE = 'R';
+const auto UNKONWN_TYPE = 'U';
 
 class MarketOrder 
 {
